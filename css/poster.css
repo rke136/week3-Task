@@ -1,0 +1,111 @@
+/*import google fonts here*/
+
+* {
+    margin: /*your code here*/;
+    padding: /*your code here*/;
+    /*your code here*/: border-box;
+}
+
+html {
+    font-family: /*your code here*/;
+    color: #151515;
+}
+
+.movie-card {
+    margin-top: /*your code here*/;
+    height: 800px;
+    text-align: /*your code here*/;
+}
+
+.movie-title {
+    text-transform: /*your code here*/;
+}
+
+.movie-poster-container img {
+    margin-top: 2rem;
+    height: /*your code here*/;
+    border-radius:/*your code here*/;
+}
+
+.movie-rating {
+    display: /*your code here*/;
+    border: 1px solid #151515;
+    padding: /*your code here*/;
+    border-radius: 5px;
+}
+
+.movie-duration {
+    margin-left: 1rem;
+    letter-spacing: 0.2rem;
+}
+
+.movie-duration:before {
+    content:/*your code here*/;
+}
+
+.movie-info-quote {
+    color: #151515a4;
+    font-style: /*your code here*/;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.movie-info-overview-title {
+    text-transform: /*your code here*/;
+    letter-spacing: 0.1rem;
+}
+
+.movie-info-actions {
+    font-size:1.1rem;
+}
+
+.movie-info-actions ul {
+    list-style: none;
+}
+
+.movie-info-actions ul li {
+    display: /*your code here*/;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(3, 37, 65);
+    
+}
+
+.movie-info-actions ul li a {
+    text-decoration: /*your code here*/;
+    color: #fff;
+    padding: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: /*your code here*/;
+    color: #777;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer ul li {
+    display: /*your code here*/;
+    margin-top: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+footer ul li a {
+    font-size: 1.5rem;
+    text-transform: /*your code here*/;
+    text-decoration: none;
+    color: #777;
+}
